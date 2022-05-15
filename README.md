@@ -1,5 +1,7 @@
 # aframe-react Demo
 
+[![Edit elegant-saha-wd19b6](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/elegant-saha-wd19b6?fontsize=14&hidenavigation=1&theme=dark)
+
 This demo uses
 
 ```
